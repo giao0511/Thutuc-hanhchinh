@@ -1,0 +1,6 @@
+{
+  "name": "Ứng dụng React Cơ Bản (React Basics)",
+  "description": "Ứng dụng React trực quan, toàn diện với Quản lý công việc, Bộ đếm State, Playground tùy biến linh kiện và Phòng thực hành React Hooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
