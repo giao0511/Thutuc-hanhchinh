@@ -1,6 +1,6 @@
 {
-  "name": "Ứng dụng React Cơ Bản (React Basics)",
-  "description": "Ứng dụng React trực quan, toàn diện với Quản lý công việc, Bộ đếm State, Playground tùy biến linh kiện và Phòng thực hành React Hooks.",
+  "name": "Cẩm Nang Dịch Vụ Công & Thủ Tục Hành Chính VNeID",
+  "description": "Cẩm nang tra cứu và chuẩn bị hồ sơ thủ tục hành chính, dịch vụ công trực tuyến VNeID nhanh chóng, chính xác, kèm checklist kiểm tra và trợ lý AI thông minh.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
